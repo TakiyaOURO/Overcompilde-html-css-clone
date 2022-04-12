@@ -1,0 +1,37 @@
+body{
+    background: cornsilk;
+    font-family: 'Anek Tamil', sans-serif;
+} 
+*/.lien{
+    display: flex;
+    justify-content: right;
+}
+.espace{
+    display: flex;
+    justify-content: space-between;
+}
+.espace1{
+    display: flex;
+    justify-content: space-between;
+}
+.espace2{
+    display: flex;
+    justify-content: space-between;
+}
+.espace3{
+    display: flex;
+    justify-content: space-between;
+}
+.espace4{
+    display: flex;
+    justify-content: space-between;
+}
+.espace5{
+    display: flex;
+    justify-content: space-between;
+}
+.center{
+    width: 680px;
+    margin: auto;
+}
+
